@@ -9,4 +9,4 @@
 ![image](https://user-images.githubusercontent.com/76891029/150269633-6bab2cee-f3d0-4f1d-87b3-45fca881391b.png)
 
 已知问题：若系统中中文学生姓名显示为 ??? ,请在数据库中把表中name字段，字符集设置为utf-8（中文）
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/76891029/150297546-a42d3f95-e047-41f2-a684-8f10150253eb.png)
