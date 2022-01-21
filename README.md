@@ -1,4 +1,6 @@
 # JSP-IDEA-Student-achievement-management-system
+web课程设计
+
 本项目为IDEA项目，项目名为学生成绩管理系统。
 
 本项目具有两个身份 学生和管理员。
